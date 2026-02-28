@@ -87,7 +87,7 @@ The project includes a frontend built using **Streamlit** where users can:
 ### 1️⃣ Clone repository
 
 ```
-git clone <repo-url>
+git clone https://github.com/abinashbir/Railfall.git
 cd Project_rainfall
 ```
 
