@@ -1,2 +1,2 @@
 Github-https://github.com/abinashbir/Rainfall
-Deployed link-https://rainfallpredic.streamlit.app/
+Deployed link-https://rainfallpredic.streamlit.app/https://rainfallpredic.streamlit.app/
